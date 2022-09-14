@@ -1,1 +1,5 @@
-console.log("first program");
+newFunction();
+
+function newFunction() {
+    console.log("first program");
+}
